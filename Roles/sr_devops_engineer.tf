@@ -24,7 +24,7 @@ module "sr-devops-engineer" {
 
   currently_hiring              = true 
   job_title                     = "Sr. DevOps Engineer"
-  salary_range                  = $115,000 - $150,000
+  salary_range                  = $115,000 - $170,000
   geography                     = "United States"
   considering_remote_candidates = true
   location                      = var.candidate_location[var.your_location_preference]
@@ -32,5 +32,6 @@ module "sr-devops-engineer" {
   visa_sponsorship_available    = false # Candidate must have right to work in the US currently, no Visa sponsorship currently available.
   key_skills                    = ["AWS","ECS","Containers","CICD","Automation/Scripting","Terraform/Terragrunt","Agile"]
   job_description_apply_link    = "https://apply.jobappnetwork.com/clients/10681/posting/6769191/en?utm_source=talentreef.com&utm_source=linkedin&utm_medium=social" 
-  
+  future_job_candidate          = "Brian Adams"
+  linked_in                     = "linkedin.com/in/lsdir"
 }
