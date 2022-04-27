@@ -31,6 +31,6 @@ module "sr-devops-engineer" {
   US_work_eligbility_required   = true
   visa_sponsorship_available    = false # Candidate must have right to work in the US currently, no Visa sponsorship currently available.
   key_skills                    = ["AWS","ECS","Containers","CICD","Automation/Scripting","Terraform/Terragrunt","Agile"]
-  job_description_apply_link    = "https://apply.jobappnetwork.com/clients/10681/posting/6769191/en?utm_source=talentreef.com&utm_source=linkedin&utm_medium=social" 
+  job_description_apply_link    = "https://apply.jobappnetwork.com/clients/10681/posting/7263196" 
   
 }
