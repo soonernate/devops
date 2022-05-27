@@ -18,7 +18,7 @@ variable "candidate_location" {
   }
 }
 
-# Come join our team of passionate DevOps Engineers embedded with our Engineering teams to help architect and build services with cloud-native best practices. 
+# Come join our team of passionate DevOps Engineers embedded with our Engineering teams to help architect and build SaaS services with cloud-native best practices. 
 module "sr-devops-engineer" {
   source = "../../../../modules/roles/your-next-career"
 
